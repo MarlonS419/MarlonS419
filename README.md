@@ -37,7 +37,7 @@ Here are some of my notable projects:
 Feel free to reach out if you're interested in collaborating, have questions, or just want to chat!
 
 - GitHub: [MarlonS419](https://github.com/MarlonS419)
-- LinkedIn: [Marlon Sanchez]([https://www.linkedin.com/in/marlonsanchez](https://www.linkedin.com/in/marlonsanchez-/))
+- LinkedIn: [Marlon Sanchez](https://www.linkedin.com/in/marlonsanchez-/)
 
 ## 🤝 Support
 
